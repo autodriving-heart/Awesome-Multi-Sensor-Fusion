@@ -162,7 +162,7 @@ R^2^LIVE: A Robust, Real-time, LiDAR-Inertial-Visual tightly-coupled state Estim
 
 [[Udacity Sensor Fusion Nanodegree Program]](https://github.com/fanweng/Udacity-Sensor-Fusion-Nanodegree)
 
-### 2. mmWave Radar and camera fusion in the warehouse
+### 2. mmWave Radar and camera fusion repository
 
 milliEye: A Lightweight mmWave Radar and Camera Fusion System for Robust Object Detection
 
