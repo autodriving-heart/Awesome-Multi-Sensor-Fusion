@@ -156,7 +156,7 @@ R^2^LIVE: A Robust, Real-time, LiDAR-Inertial-Visual tightly-coupled state Estim
 
 [[R3LIVE]](https://github.com/hku-mars/r3live)
 
-## 六、**代码大全** | Code
+## 六、Code
 
 ### 1.**Udacity Sensor Fusion Nanodegree**
 
