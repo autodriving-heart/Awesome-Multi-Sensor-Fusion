@@ -6,13 +6,13 @@
 
 [[Awesome Sensor Fusion]](https://github.com/stanleyw-tw/awesome-sensor-fusion)
 
-## 一、**综述** | Overview
+## 一、Overview
 
-### 1.**近几年综述汇总** | Aggregate
+### 1. Survey
 
 Multi-modal Sensor Fusion for Auto Driving Perception: A Survey
 
-### 2.**自动驾驶中的多传感器融合综述** | Multi-sensor fusion overview
+### 2. Multi-sensor fusion overview
 
 Multi-Sensor Fusion in Automated Driving: A Survey
 
@@ -24,9 +24,9 @@ Multi-modal 3D Object Detection in Autonomous Driving: A Survey and Taxonomy
 
 Camera-Radar Perception for Autonomous Vehicles and ADAS: Concepts, Datasets and Metrics
 
-## 二、**强融合** | Strong integration
+## 二、Strong Fusion
 
-### 1.**数据级融合** | Data-level convergence
+### 1. Data-level Fusion
 
 Frustum ConvNet: Sliding Frustums to Aggregate Local Point-Wise Features for Amodal 3D Object Detection
 
@@ -44,7 +44,7 @@ PointPainting: Sequential Fusion for 3D Object Detection
 
 [[Code]](https://github.com/Song-Jingyu/PointPainting)
 
-### 2.**特征级融合** | **Feature-level fusion**
+### 2. Feature-level fusion
 
 #### Classic Method
 
@@ -76,13 +76,11 @@ Joint 3D Proposal Generation and Object Detection from View Aggregation
 
 [[Code]](https://github.com/kujason/avod)
 
-#### 针对自动驾驶的三阶段特征提取器的特征级融合
-
 #### Feature-level fusion of three-stage feature extractors for autonomous driving
 
 Multi-level and Multi-modal Feature Fusion for Accurate 3D Object Detection in Connected and Automated Vehicles
 
-### 3.**目标级融合** | Target-level fusion
+### 3. Target-level fusion
 
 CLOCs: Camera-LiDAR Object Candidates Fusion for 3D Object Detection
 
@@ -94,7 +92,7 @@ LIGA-Stereo: Learning LiDAR Geometry Aware Representations for Stereo-based 3D D
 
 [[Code]](https://github.com/xy-guo/LIGA-Stereo)
 
-### 4.**不对称融合** | Asymmetric fusion
+### 4. Asymmetric fusion
 
 3D Object Detection Using Scale Invariant and Feature Reweighting Networks
 
@@ -122,9 +120,9 @@ SuperFusion: Multilevel LiDAR-Camera Fusion for Long-Range HD Map Generation and
 
 M-LIO: Multi-lidar, multi-IMU odometry with sensor dropout tolerance
 
-## 三、**弱融合** | Weak fusion
+## 三、Weak fusion
 
-### 1.**弱融合汇总** | Weak Fusion Summary
+### 1. Weak Fusion Summary
 
 Frustum ConvNet: Sliding Frustums to Aggregate Local Point-Wise Features for Amodal 3D Object Detection
 
@@ -138,21 +136,15 @@ Modality-Buffet for Real-Time Object Detection
 
 SemanticVoxels: Sequential Fusion for 3D Pedestrian Detection using LiDAR Point Cloud and Semantic Segmentation
 
-## 四、**其它融合** | Other fusion
-
-### 1.**其它融合汇总** | Aggregate
+## 四、Other fusion
 
 PointAugmenting: Cross-Modal Augmentation for 3D Object Detection
 
-### 2.**M-LIO:激光与IMU融合** | Laser and IMU Fusion
-
 M-LIO: Multi-lidar, multi-IMU odometry with sensor dropout tolerance
-
-### 3.**汽车底盘信息多模态融合** | Multimodal fusion of automotive chassis information
 
 Multi-modal Fusion Technology based on Vehicle Information: A Survey 
 
-## 五、**融合框架（代码）** | Convergence Framework(Code)
+## 五、Fusion Framework(Code)
 
 ###1.**R2LIVE**
 
@@ -170,9 +162,7 @@ R^2^LIVE: A Robust, Real-time, LiDAR-Inertial-Visual tightly-coupled state Estim
 
 [[Udacity Sensor Fusion Nanodegree Program]](https://github.com/fanweng/Udacity-Sensor-Fusion-Nanodegree)
 
-### 2.**毫米波和相机融合的仓库**
-
-### Millimeter wave and camera fusion in the warehouse
+### 2. mmWave Radar and camera fusion in the warehouse
 
 milliEye: A Lightweight mmWave Radar and Camera Fusion System for Robust Object Detection
 
